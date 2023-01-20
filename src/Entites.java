@@ -1,0 +1,3 @@
+enum Entites {
+    BORDURE, PNJ, VIDE, PORTE_FERMEE, PORTE_OUVERTE
+}

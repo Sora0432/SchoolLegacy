@@ -1,0 +1,3 @@
+Pseudo,PositionLigne,PositionColonne,SalleActuelle,EtageActuel,Score,Matiere1,Fini1,Matiere2,Fini2,Matiere3,Fini3,Matiere4,Fini4,Matiere5,Fini5
+Raphael,1,1,1,1,1200,mathematiques,true,français,false,,,,,,
+r,1,1,1,0,0,mathematiques,false,français,false,,,,,,
