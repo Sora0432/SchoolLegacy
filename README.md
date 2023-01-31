@@ -2,7 +2,7 @@ School Legacy
 ===========
 
 Développé par Raphaël KIECKEN et Julien DE LA VEGA
-Contact : raphaël.kiecken.etu@univ-lille.fr / julien.delavega.etu@univ-lille.fr
+Contact : raphael.kiecken.etu@univ-lille.fr / julien.delavega.etu@univ-lille.fr
 
 # Présentation de SchoolLegacy
 
